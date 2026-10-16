@@ -1,0 +1,11 @@
+{
+  "name": "restosignals",
+  "owner": { "name": "RestoSignals", "url": "https://restosignals.com" },
+  "plugins": [
+    {
+      "name": "restosignals",
+      "source": "./",
+      "description": "Pre-opening restaurant leads for agents: hosted MCP server + skill."
+    }
+  ]
+}

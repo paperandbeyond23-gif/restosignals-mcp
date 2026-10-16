@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "restosignals": {
+      "type": "http",
+      "url": "https://api.restosignals.com/mcp",
+      "headers": { "X-API-Key": "${RESTOSIGNALS_API_KEY}" }
+    }
+  }
+}

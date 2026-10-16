@@ -1,0 +1,10 @@
+{
+  "name": "restosignals",
+  "description": "Find US restaurants and bars 1-6 months before they open: scored pre-opening leads with owner contact, via hosted MCP server and skill.",
+  "version": "1.0.0",
+  "author": { "name": "RestoSignals", "url": "https://restosignals.com" },
+  "homepage": "https://restosignals.com/restoapi",
+  "repository": "https://github.com/paperandbeyond23-gif/restosignals-mcp",
+  "license": "MIT",
+  "keywords": ["restaurants", "leads", "mcp", "sales", "liquor-license", "b2b"]
+}
